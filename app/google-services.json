@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18225032543",
+    "project_id": "hospital-17adc",
+    "storage_bucket": "hospital-17adc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18225032543:android:8b9c1c4b0d6ee770a25aea",
+        "android_client_info": {
+          "package_name": "com.pawan.healthcareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18225032543-d9c79nmnkqb26noi6jlj1sihoru4q1d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALwbDjGxCwA2v9ri7kahfutncER-w2axA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18225032543-d9c79nmnkqb26noi6jlj1sihoru4q1d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
